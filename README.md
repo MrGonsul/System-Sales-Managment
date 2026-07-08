@@ -2,11 +2,11 @@
 The Sales & Invoice Management System is a desktop application developed using Java, SWT, Hibernate Annotations, and MySQL. It allows users to manage products, users, and sales invoices through a simple interface while securely storing data in a database.
 ## Screenshots
 
-![login](./img/login.png)
+![login](.,/img/login.png)
 
-![item](./img/item.png)
+![item](../img/item.png)
 
-![invoice](./img/invoice.png)
+![invoice](../img/invoice.png)
 
 ## 🚀 Features
 
